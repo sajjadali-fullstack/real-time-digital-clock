@@ -23,8 +23,8 @@ The clock updates every second using JavaScript's `Date` object and `setInterval
 ---
 
 ## 📂 Project Structure
-├── index.html
-├── style.css
+├── index.html <br>
+├── style.css <br>
 ├── script.js
 
 
